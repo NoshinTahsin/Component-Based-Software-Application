@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3D/UrPwTm5ywkvzWdgGjjN/0ug8yw0F4FNzIus5LLzB9/gL6dMUWuVAOEC4NvK7LgyXFn/dghHV3AS0Xvh69A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\CalculatorCBSE\\CalculatorCBSE\\CalculatorCBSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

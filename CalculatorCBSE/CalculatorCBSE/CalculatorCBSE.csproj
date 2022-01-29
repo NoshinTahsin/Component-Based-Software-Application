@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryAreaCalculator">
+      <HintPath>..\..\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\bin\Debug\net5.0\ClassLibraryAreaCalculator.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrarySimpleCalculator">
+      <HintPath>..\..\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\bin\Debug\net5.0\ClassLibrarySimpleCalculator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
