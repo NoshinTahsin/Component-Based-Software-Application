@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\bin\Debug\net5.0\ClassLibrarySimpleCalculator.deps.json
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\bin\Debug\net5.0\ClassLibrarySimpleCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\bin\Debug\net5.0\ref\ClassLibrarySimpleCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\bin\Debug\net5.0\ClassLibrarySimpleCalculator.pdb
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ref\ClassLibrarySimpleCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.pdb
+C:\Users\ASUS\source\repos\ClassLibrarySimpleCalculator\ClassLibrarySimpleCalculator\obj\Debug\net5.0\ClassLibrarySimpleCalculator.csproj.AssemblyReference.cache
