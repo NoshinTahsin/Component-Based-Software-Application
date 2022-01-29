@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\bin\Debug\net5.0\ClassLibraryAreaCalculator.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\bin\Debug\net5.0\ClassLibraryAreaCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\bin\Debug\net5.0\ref\ClassLibraryAreaCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\bin\Debug\net5.0\ClassLibraryAreaCalculator.pdb
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ClassLibraryAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ClassLibraryAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ClassLibraryAreaCalculator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ClassLibraryAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ClassLibraryAreaCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ref\ClassLibraryAreaCalculator.dll
+C:\Users\ASUS\source\repos\ClassLibraryAreaCalculator\ClassLibraryAreaCalculator\obj\Debug\net5.0\ClassLibraryAreaCalculator.pdb
